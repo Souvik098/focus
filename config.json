@@ -8,14 +8,14 @@
     "debugEmojiId": "729353638736166932"
   },
   "pinEmojiId": "740970153696690247",
-  "suggestionChId": "751455845270814721",
-  "bugChId": "725434669453279352",
+  "suggestionChId": "1347554849247723552",
+  "bugChId": "1347554849247723551",
   "urls": {
-    "botInviteLink": "https://discord.com/oauth2/authorize?client_id=723094801175806024&permissions=268561494&scope=bot%20applications.commands",
-    "discordInviteLink": "https://discord.gg/r4bsXez",
-    "topgg": "https://top.gg/bot/723094801175806024",
-    "website": "https://focus04.github.io/Focus",
-    "github": "https://github.com/Focus04/Focus-Discord"
+    "botInviteLink": "https://discord.com/oauth2/authorize?client_id=1347864561667276830&permissions=8&integration_type=0&scope=bot",
+    "discordInviteLink": "https://discord.gg/YXwrFmzMEk",
+    "topgg": "",
+    "website": "",
+    "github": ""
   },
   "deafultWelcomeMsg": "Wish [user] a pleasant stay!",
   "defaultLeaveMsg": "[user] has parted ways with us...",
